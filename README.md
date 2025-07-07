@@ -46,7 +46,7 @@ yarn ios
 ##  Screenshots
 
 
-https://drive.google.com/drive/folders/1cYOLnSF-J_dJOjj29n8az-Qo18uQE1XY?usp=share_link
+https://drive.google.com/drive/folders/1DdZtjtrykCg1XZrwtQG6o2Ql86YNG26S
 
 
 
